@@ -1,0 +1,13 @@
+title: MJ's Dev Blog
+description: 개발하면서 배운 것들을 기록합니다
+theme: minima
+author:
+  name: MJ
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
+
+permalink: /:year/:month/:day/:title/
